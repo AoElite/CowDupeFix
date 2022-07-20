@@ -1,0 +1,6 @@
+name: CowDupeFix
+version: '1.0'
+main: org.immisha.cowdupefix.CowDupeFix
+authors: [ ImMisha ]
+description: Fixes cloning a lot of cows!
+website: https://www.donationalerts.com/r/akkitebe
